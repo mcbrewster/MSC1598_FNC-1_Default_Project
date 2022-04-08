@@ -1,3 +1,5 @@
+# MSCI 598 Final Project 
+ project authored by Maggie Brewster and Youngchae Emma Park 
 # TFIDF Approach
 
 Our first approach was to add a TFIDF feature to the baseline model provided found at https://github.com/FakeNewsChallenge/fnc-1-baseline
